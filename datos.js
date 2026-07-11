@@ -1,19 +1,19 @@
 window.COMPETITION_DATA = {
   currentWeek: 1,
   participants: [
-    { name: "Participante 1", startWeight: 65.0 },
-    { name: "Participante 2", startWeight: 58.0 },
-    { name: "Participante 3", startWeight: 58.0 },
-    { name: "Participante 4", startWeight: 60.0 },
-    { name: "Participante 5", startWeight: 100.0 }
+    { name: "Fercha", startWeight: 55.0 },
+    { name: "Ale", startWeight: 56.0 },
+    { name: "Alba", startWeight: 57.0 },
+    { name: "Angie", startWeight: 58.0 },
+    { name: "Gabo", startWeight: 70.0 }
   ],
   weeks: [
     { week: 1, results: [
-      { name: "Participante 1", weight: 64.5, activeKcal: 2100, activeDays: 5 },
-      { name: "Participante 2", weight: 57.7, activeKcal: 1850, activeDays: 6 },
-      { name: "Participante 3", weight: 57.8, activeKcal: 2400, activeDays: 7 },
-      { name: "Participante 4", weight: 59.8, activeKcal: 1700, activeDays: 4 },
-      { name: "Participante 5", weight: 98.9, activeKcal: 3200, activeDays: 6 }
+      { name: "Fercha", weight: 54.5, activeKcal: 2100, activeDays: 5 },
+      { name: "Ale", weight: 54.7, activeKcal: 1850, activeDays: 6 },
+      { name: "Alba", weight: 55.8, activeKcal: 2400, activeDays: 7 },
+      { name: "Angie", weight: 53.8, activeKcal: 1700, activeDays: 4 },
+      { name: "Gabo", weight: 68.9, activeKcal: 3200, activeDays: 3 }
     ]},
     { week: 2, results: [] },
     { week: 3, results: [] },
