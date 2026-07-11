@@ -1,16 +1,9 @@
-PEDALER@S DEL MES · EDICIÓN 2026
+Cambios incluidos:
+- Constancia: 6 puntos por día; máximo 40.
+- Nueva recomendación.
+- Colores fijos por participante en gráficos y tarjetas.
+- Podio Top 5; puestos 4 y 5 en cobre.
 
-Edita únicamente datos.js para cambiar participantes y resultados.
+Para cambiar nombres, edita datos.js y usa exactamente los mismos nombres en participants y en cada semana.
 
-Campos por semana:
-- weight: peso de esa semana
-- activeKcal: kcal activas semanales
-- activeDays: días con más de 150 kcal activas
-
-Puntuación configurada:
-- Peso: 40, 32, 24, 16, 8
-- Ejercicio: 20, 16, 12, 8, 4
-- Constancia: 0, 6, 11, 17, 23, 29, 34, 40
-- Semana 2: ejercicio x1,5
-- Semana 3: peso x2
-- Semana 4: +15 a la mayor pérdida acumulada
+Los colores se asignan por orden de participante, por lo que puedes cambiar los nombres sin perderlos.
