@@ -1,0 +1,1 @@
+const d=[["Julia",268],["Ale",255],["Carlos",249],["Marta",221],["Laura",210]];let h="<tr><th>#</th><th>Nombre</th><th>Puntos</th></tr>";d.forEach((r,i)=>h+=`<tr><td>${i+1}</td><td>${r[0]}</td><td>${r[1]}</td></tr>`);document.getElementById("rank").innerHTML=h;
