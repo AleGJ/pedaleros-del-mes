@@ -9,11 +9,11 @@ window.COMPETITION_DATA = {
   ],
   weeks: [
     { week: 1, results: [
-      { name: "China Capuchina", weight: 58.65, activeKcal: 2537, activeDays: 7 },
+      { name: "China Capuchina", weight: 58.65, activeKcal: 2537, activeDays: 5 },
       { name: "Ale Magna", weight: 54.4, activeKcal: 2178, activeDays: 7 },
       { name: "Alba Wild", weight: 58, activeKcal: 4162, activeDays: 7 },
       { name: "Angie bonita", weight: 0, activeKcal: 3574, activeDays: 6 },
-      { name: "Gabo Momoa", weight: 126, activeKcal: 0, activeDays: 0 }
+      { name: "Gabo Momoa", weight: 124, activeKcal: 0, activeDays: 0 }
     ]},
     { week: 2, results: [] },
     { week: 3, results: [] },
