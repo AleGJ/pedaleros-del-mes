@@ -35,6 +35,13 @@ window.COMPETITION_DATA = {
       { name: "Alba Wild", weight: 56.2, activeKcal: 5839, activeDays: 7 },
       { name: "Angie bonita", weight: 71.05, activeKcal: 6990, activeDays: 7 },
       { name: "Gabo Momoa", weight: 122.4, activeKcal: 8345, activeDays: 7 }
-    ] }
+    ] },
+    { week: 5, results: [
+      { name: "China Capuchina", weight: 59.25, activeKcal: 3061, activeDays: 7 },
+      { name: "Ale Magna", weight: 55.8, activeKcal: 3113, activeDays: 7 },
+      { name: "Alba Wild", weight: 58.4, activeKcal: 4062, activeDays: 7 },
+      { name: "Angie bonita", weight: 70.09, activeKcal: 7063, activeDays: 7 },
+      { name: "Gabo Momoa", weight: 122.1, activeKcal: 7212, activeDays: 7 }
+    ] }    
   ]
 };
